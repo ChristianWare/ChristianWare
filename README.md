@@ -1,6 +1,6 @@
 ### Bonjour World 👋
 
-Here are some ideas to get you started:
+Here are some fact about me: 
 
 - 🔭 I’m currently working on ... Ecommerce Store with Three.js
 - 🌱 I’m currently learning ... Typescript
